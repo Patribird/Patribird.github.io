@@ -6,8 +6,6 @@ The GitHub page also includes a section about myself, my motivations, and what
 I hope to achieve as a Junior Software Developer and new grad!
 
 
-
-
 Credits:
 	HTML Boilerplate Code:
 		HTML5UP - Directive Theme (html5up.net)
