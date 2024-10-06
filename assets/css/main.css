@@ -115,7 +115,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #4eb980;
+		color: #c2d2d9;
 		text-decoration: none;
 	}
 
@@ -2107,7 +2107,7 @@ input, select, textarea {
 		select:focus,
 		textarea:focus {
 			background: rgba(224, 224, 224, 0.15);
-			border-color: #4eb980;
+			border-color: #c2d2d9;
 		}
 
 	input[type="text"],
@@ -2743,7 +2743,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #4eb980;
+				color: #c2d2d9;
 			}
 
 		#header strong, #header b {
@@ -2763,20 +2763,21 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: #31352e;
+			border: 6px solid #31352e;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
 			display: inline-block;
 			font-size: 2.25em;
-			height: 2.35em;
+			height: 2em;
 			line-height: 2.35em;
 			margin: 0 0 0.75em 0;
 			text-align: center;
-			width: 2.35em;
+			width: 2em;
 		}
 
-			#header .logo.fa-paper-plane-o:before {
+			#header .logo {
 				left: -0.075em;
 				position: relative;
 			}
@@ -2796,7 +2797,7 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #4eb980;
+		background-color: #617983;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
@@ -2847,7 +2848,7 @@ input, select, textarea {
 		#footer .button {
 			background: #ffffff;
 			box-shadow: inset 0 0 0 1px #ffffff;
-			color: #4eb980;
+			color: #c2d2d9;
 		}
 
 			#footer input[type="submit"]:hover,
