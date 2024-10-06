@@ -115,7 +115,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #c2d2d9;
+		color: #8ac6e0;
 		text-decoration: none;
 	}
 
@@ -2763,8 +2763,8 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #31352e;
-			border: 6px solid #31352e;
+			background: #343532;
+			border: 6px solid #343532;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2797,7 +2797,7 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #617983;
+		background-color: #6f8565;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
